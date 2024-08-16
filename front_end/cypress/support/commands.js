@@ -31,3 +31,8 @@ Cypress.Commands.add('getByData', (seletor) => {
 Cypress.Commands.add('checkTest', (seletor, text) => {
     return cy.get(`[data-test=${seletor}]`).contains(text)
 })
+
+Cypress.Commands.add('checkVisibility', (seletor) => {
+    return cy.get(`[data-test=${seletor}]`).should('be.visible')
+})
+

@@ -11,19 +11,19 @@ export default function Rodape() {
     <footer className={estilos.container}>
       <div className={estilos.caixa__rodape}>
         <div className={estilos.coluna__infos}>
-          <h3>Serviços</h3>
-          <p>Conta corrente</p>
-          <p>Conta PJ</p>
-          <p>Cartão de crédito</p>
+          <h3 data-test='servicos'>Serviços</h3>
+          <p data-test='servicos1'>Conta corrente</p>
+          <p data-test='servicos2'>Conta PJ</p>
+          <p data-test='servicos3'>Cartão de crédito</p>
         </div>
         <div className={estilos.coluna__infos}>
-          <h3>Contato</h3>
-          <p>0800 004 250 08</p>
-          <p>meajuda@bytebank.com.br</p>
-          <p>ouvidoria@bytebank.com.br</p>
+          <h3 data-test='contato'>Contato</h3>
+          <p data-test='contato1'>0800 004 250 08</p>
+          <p data-test='contato2'>meajuda@bytebank.com.br</p>
+          <p data-test='contato3'>ouvidoria@bytebank.com.br</p>
         </div>
         <div className={estilos.coluna__infos}>
-          <h3>Desenvolvido por Alura</h3>
+          <h3 data-test='autor'>Desenvolvido por Alura</h3>
           <img
             className={estilos.logo__bytebank}
             src={logoBytebank}
