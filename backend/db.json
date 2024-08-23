@@ -1,0 +1,623 @@
+{
+  "transacoes": [
+    {
+      "transacao": "Depósito",
+      "valor": "150",
+      "data": "18/11/2022",
+      "mes": "Novembro",
+      "id": 1
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "21/11/2022",
+      "mes": "Novembro",
+      "id": 2
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "500",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 3
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1500",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 4
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "250",
+      "data": "05/01/2023",
+      "mes": "Janeiro",
+      "id": 5
+    },
+    {
+      "transacao": "",
+      "valor": "1000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 6
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "1000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 7
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 8
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "10000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 9
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 10
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "100000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 11
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "10000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 12
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 13
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 14
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 15
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 16
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 17
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 18
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 19
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 20
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "10",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 21
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "1e+193",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 22
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 23
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 24
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 25
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "1000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 26
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "data": "16/08/2024",
+      "mes": "Agosto",
+      "id": 27
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 28
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 29
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 30
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 31
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 32
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 33
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 34
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 35
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 36
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 37
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 38
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 39
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 40
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 41
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 42
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 43
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 44
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 45
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 46
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 47
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 48
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 49
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 50
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 51
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 52
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 53
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 54
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 55
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 56
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 57
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 58
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 59
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 60
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 61
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 62
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 63
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 64
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 65
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 66
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 67
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 68
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 69
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 70
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 71
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 72
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 73
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 74
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 75
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 76
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 77
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 78
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 79
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 80
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 81
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 82
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 83
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 84
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 85
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 86
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 87
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/08/2024",
+      "mes": "Agosto",
+      "id": 88
+    }
+  ],
+  "saldo": {
+    "valor": 1e+258
+  }
+}
